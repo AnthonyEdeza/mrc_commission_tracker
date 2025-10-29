@@ -68,7 +68,8 @@ aug20230915_SANITIZED.csv
 > 🧩 **Output:** `combined_mrc_sheets.xlsx`  
 > A consolidated Excel workbook generated automatically by the script.  
 > Each sheet (e.g., `Jan_2nd MRC`, `Jan_3rd MRC`, `Jan_4th MRC`) contains all qualifying accounts and projected commission dates.
-> ⚠️ *Note:* These are **fully sanitized test files** that contain randomly generated, non-identifiable data.  
+
+> ⚠️*Note:* These are **fully sanitized test files** that contain randomly generated, non-identifiable data.  
 > They are safe for public demonstration and reproduce the same structure as the original datasets.
 
 ---
