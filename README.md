@@ -113,3 +113,19 @@ This project exists solely for educational and portfolio demonstration purposes.
 
 👤 Created by Anthony Edeza
 📧 AnthonyEdeza.Data@gmail.com
+
+## 🧩 Recruiter Note
+
+If you’re evaluating this portfolio:
+
+This project demonstrates how Python scripting and data automation can streamline repetitive operational reporting.  
+It highlights practical skills in **data wrangling**, **business rule logic**, and **Excel automation** using real-world commission workflows.  
+It reflects analytical thinking and automation design applied to everyday operational problems—exactly the kind of bridge between IT and data analytics that drives process improvement.
+
+---
+
+## 🏁 Summary
+
+The **MRC Commission Tracker** automates recurring commission tracking and forecasting, eliminating hours of manual spreadsheet work.  
+It demonstrates how structured data logic can replace repetitive human tasks while preserving accuracy and consistency across reporting cycles.  
+This project showcases the foundation of scalable automation—turning operational bottlenecks into clean, reusable, and data-driven solutions.
