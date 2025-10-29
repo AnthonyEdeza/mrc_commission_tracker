@@ -84,7 +84,7 @@ aug20230915_SANITIZED.csv
 
 ### Option 2 — Local Execution (optional)
 You can also run it locally with:
-```bash
+
 python mrc_commission_tracker.ipynb
 (requires Python ≥ 3.9, pandas, xlsxwriter)
 
